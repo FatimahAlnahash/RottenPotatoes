@@ -1,12 +1,12 @@
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
-  {:title => 'Aladdin', :rating => 'G',
+  {:title => 'Dragon Ball Z', :rating => 'G',
     :release_date => '25-Nov-1992'},
-  {:title => 'When Harry Met Sally', :rating => 'R',
+  {:title => 'Naruto Shippuuden: Bonds', :rating => 'R',
     :release_date => '21-Jul-1989'},
-  {:title => 'The Help', :rating => 'PG-13',
+  {:title => 'One Piece: Strong world', :rating => 'PG-13',
     :release_date => '10-Aug-2011'},
-  {:title => 'Raiders of the Lost Ark', :rating => 'PG',
+  {:title => 'Lord Of The Ring', :rating => 'PG',
     :release_date => '12-Jun-1981'}
 ]
 
